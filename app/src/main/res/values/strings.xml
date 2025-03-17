@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">TicTacToe</string>
+    <string name="admobAppId">ca-app-pub-8806695765266858~1511843476</string>
+    <string name="bannerId1">ca-app-pub-8806695765266858/5792438640</string>
+    <string name="bannerId2">ca-app-pub-8806695765266858/6488003832</string>
+    <string name="interstitialAdId">ca-app-pub-8806695765266858/6840429451</string>
+
+</resources>
